@@ -1,2 +1,2 @@
 # The process of building Debian rootfs is from https://blog.csdn.net/CNflysky/article/details/125467518
-## build: Debian 12(bookworm)
+## build: Debian 12(bookworm) arm64
